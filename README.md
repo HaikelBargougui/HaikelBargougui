@@ -29,7 +29,6 @@ Welcome to my GitHub profile! I'm passionate about Deep Learning, Machine Learni
 - **GitHub:** [HaykelBargouguy](https://github.com/HaykelBargouguy)
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaykelBargouguy&show_icons=true)
+
 
 ## 🔢 Additional Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaykelBargouguy&show_icons=true&hide=contribs,prs)
